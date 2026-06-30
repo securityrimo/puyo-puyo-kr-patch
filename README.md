@@ -85,6 +85,10 @@ SFC **슈퍼 퍼즐뿌요 1 (す～ぱ～なぞぷよ ルルーのルー, Super 
 
 ![sfc-nazo-puyo-screenshot-1](/img/sfc-nazo-puyo-screenshot-1.png)
 
+![sfc-nazo-puyo-screenshot-2](/img/sfc-nazo-puyo-screenshot-2.png)
+
+![sfc-nazo-puyo-screenshot-3](/img/sfc-nazo-puyo-screenshot-3.png)
+
 ### 적용 방법
 
 1. **일본판 원본 ROM** (`Super Nazo Puyo - Lulu no Lu (Japan).sfc`, 헤더 없는 LoROM, 1MB)을 준비합니다
