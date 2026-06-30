@@ -120,6 +120,7 @@ SFC **슈퍼 퍼즐뿌요 1 (す～ぱ～なぞぷよ ルルーのルー, Super 
 ### 패치 정보
 
 - 한글 폰트: neodgm, dalmoori
+- [패쳐 코드베이스](https://github.com/mcpads/sfc-nazo-rulue1)
 
 ### 크레딧
 
